@@ -1,0 +1,11 @@
+{
+  "id": "canvas-clique",
+  "name": "Canvas Clique",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Create internal links between selected files in a canva, making them a clique",
+  "author": "Kayne",
+  "authorUrl": "https://github.com/CoKayne",
+  "isDesktopOnly": true
+}
+
